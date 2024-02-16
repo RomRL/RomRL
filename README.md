@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomRL
-- 👀 I’m interested in OOP , Java , Python , C , C++ .
+- 👀 I’m interested in OOP , Java , Python , C  .
 - 🌱 I’m currently learning Software Engineering Student at ORT Braude College
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me romharel98@gmail.com 
